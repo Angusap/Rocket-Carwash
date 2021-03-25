@@ -9,3 +9,5 @@ Requirements:
 - Custom Progressbar you can change to progresbars
 
 For questions pm: Angus_Ap#9999
+
+DISCORD: https://bit.ly/rocketscripts
